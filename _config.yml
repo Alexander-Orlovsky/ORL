@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 title: Пробую тему Кайман
 description: И пробую ее без дополнительных папок и прочего
 
-show_downloads: true
+show_downloads: false
 google_analytics:
