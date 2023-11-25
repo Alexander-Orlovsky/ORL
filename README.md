@@ -1,7 +1,3 @@
----
-title: «это прописано в верху в title самой страницы README.md»
-permalink: /README.html
----
 
 
 # Заголовок уровня 1
