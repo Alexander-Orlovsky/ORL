@@ -1,5 +1,5 @@
 С title/description нашел пока такой выход:  
-Если самая первая строка в README.md "простой текст", то title/description берутся из _config.yml
+Если самая первая строка в README.md "простой текст", а не заголовок, то title/description берутся из _config.yml
 
 
 # Заголовок уровня 1
