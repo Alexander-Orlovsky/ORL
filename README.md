@@ -1,10 +1,8 @@
-
-<!--  
 ---
 title: Another page
 description: This is just another page
 ---
-  -->
+
 
 ## Заголовок уровня 2
 Это обычная строка 1234567890  
