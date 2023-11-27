@@ -1,4 +1,4 @@
-С title/description нашел пока такой выход:  
+С проблемностью title/description при разворачивании на GitHub нашел пока такой выход:  
 Если самая первая строка в README.md "простой текст", а не заголовок, то title/description берутся из _config.yml
 
 
