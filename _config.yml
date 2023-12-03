@@ -4,3 +4,6 @@ description: То есть вообще без дополнительных па
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+favicon_ico: "/images/public_favicon.ico"
+
