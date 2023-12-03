@@ -83,9 +83,9 @@ We'll be publishing releases and news here, so stay tuned for updates.
 <br>
 <br>
 
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
+[ ]  hello, this is a todo item
+[ ]  hello, this is another todo item
+[x]  goodbye, this item is done
 
 <br>
 <br>
