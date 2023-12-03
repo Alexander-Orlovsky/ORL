@@ -5,5 +5,3 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 
-favicon_ico: "/images/public_favicon.ico"
-
