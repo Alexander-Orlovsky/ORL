@@ -44,6 +44,44 @@ We'll be publishing releases and news here, so stay tuned for updates.
 
 
 ===========
+<br>
+<br>
+
+<table>
+  <tr>
+    <th>NDVI difference</th>
+    <th>HTLM color code</th>
+    <th>Color</th>
+  </tr>
+  <tr>
+    <td>-2</td>
+    <td>#8e0152</td>
+    <td style="background-color: #8e0152;"></td>
+  </tr>
+  <tr>
+    <td>-1</td>
+    <td>#c51b7d</td>
+    <td style="background-color: #c51b7d;"></td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>#f7f7f7</td>
+    <td style="background-color: #f7f7f7;"></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>#4d9221</td>
+    <td style="background-color: #4d9221;"></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>#276419</td>
+    <td style="background-color: #276419;"></td>
+  </tr>
+</table>
+
+<br>
+<br>
 
 
 
