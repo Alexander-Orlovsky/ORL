@@ -51,7 +51,7 @@ We'll be publishing releases and news here, so stay tuned for updates.
   <tr>
     <th>NDVI difference</th>
     <th>HTLM color code</th>
-    <th>Color</th>
+    <th>&nbsp;&nbsp;&nbsp;Color&nbsp;&nbsp;&nbsp;</th>
   </tr>
   <tr>
     <td>-2</td>
