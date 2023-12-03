@@ -3,7 +3,7 @@ description: То есть вообще без дополнительных па
 
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: just-the-docs
 
 
 math: mathjax
