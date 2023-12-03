@@ -3,11 +3,4 @@ description: То есть вообще без дополнительных па
 
 show_downloads: true
 google_analytics:
-theme: just-the-docs
-
-
-math: mathjax
-enable_copy_code_button: true
-
-
-
+theme: jekyll-theme-cayman
